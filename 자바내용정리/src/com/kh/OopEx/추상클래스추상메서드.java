@@ -1,6 +1,6 @@
 package com.kh.OopEx;
 
-public abstract class 추상글래스추상메서드 {
+public abstract class 추상클래스추상메서드 {
 	abstract void 추상메서드();
 /*	
 	추상 클래스
